@@ -1,4 +1,4 @@
-# Trabalho 2 - Programação Concorrente - ine5410 (2022.2) - Simulação de um Sistema de Transações Bancárias
+# Trabalho 2 - Programação Concorrente - INE5410 (2022.2) - Simulação de um Sistema de Transações Bancárias
 
 ## Visão geral
 
